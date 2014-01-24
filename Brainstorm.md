@@ -1,5 +1,4 @@
 
-
 hello world
 * blinking led
   * different types of leds
@@ -23,7 +22,7 @@ Learn to Solder Hackathon:
   * LOL Shield
   * SMD Soldering kits for the skilled
   * Shift Register Table
-  * RTC + Arduino + Shift Register for Real TIme Clock
+  * RTC kit http://www.adafruit.com/products/264 -- datalogging and for everyday stopwatches and timers.
 
 how to create 
 * How to use a library (Adafruit)
