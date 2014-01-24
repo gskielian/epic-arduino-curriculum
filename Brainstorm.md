@@ -11,14 +11,20 @@ How to use I2C:
 * I2C spider
 
 Sensors:
-* Simple Arduino sensor
+* Simple Arduino sensor Using hte EEPROM Library (can be used up to 100,000 times per avr microcontroller -- which are 4$ each, thus this is great for slow sensor reads)
 * using the computer for a sensor
   * Python
   * Bash (if mac or linux)
 * SD Card Shield
+* Bluetooth Shields
+ * how to use the comport to access the bluetooth shield (linux and mac) 
+
+
+Dual-Boot-a-thon! Want another operating system on your computer besides windows? Try out debian-based linux (which is compatible with most of our courses)!
 
 
 Learn to Solder Hackathon:
+
   * Mitch Altman's soldering guide for sale
   * Dioabolino: build your own Arduino
   * The Iconic Minty-Boost
