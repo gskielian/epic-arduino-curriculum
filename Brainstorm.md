@@ -1,4 +1,3 @@
-
 hello world
 * blinking led
   * different types of leds
@@ -10,6 +9,14 @@ How to use I2C:
 * Gyroscope and sensor control
 * I2C Sensor and Readouts
 * I2C spider
+
+Sensors:
+* Simple Arduino sensor
+* using the computer for a sensor
+  * Python
+  * Bash (if mac or linux)
+* SD Card Shield
+
 
 Learn to Solder Hackathon:
   * Mitch Altman's soldering guide for sale
@@ -28,6 +35,9 @@ how to create
 * How to use a library (Adafruit)
 * How to make a library
 
+
+
+Hackathon #2:
 
 Ardu-gyver Obstacle Course -- Ardu-ninja?
 
