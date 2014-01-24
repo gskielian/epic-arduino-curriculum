@@ -1,11 +1,16 @@
 
 
-
 hello world
 * blinking led
   * different types of leds
   * mysterious non-blinking leds (segue to next section)
-* tv-b-gone -- must give spiel
+* tv-b-gone -- must give spiel (followed by learn to solder hackathon -- remember to bring a lot of leadsolder for the fumes)
+
+How to use I2C:
+* Adafruit RGB Strips
+* Gyroscope and sensor control
+* I2C Sensor and Readouts
+* I2C spider
 
 Learn to Solder Hackathon:
   * Mitch Altman's soldering guide for sale
@@ -17,6 +22,8 @@ Learn to Solder Hackathon:
   * The RGB Wave
   * LOL Shield
   * SMD Soldering kits for the skilled
+  * Shift Register Table
+  * RTC + Arduino + Shift Register for Real TIme Clock
 
 how to create 
 * How to use a library (Adafruit)
