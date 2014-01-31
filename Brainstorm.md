@@ -23,6 +23,7 @@ Sensors:
 Dual-Boot-a-thon! Want another operating system on your computer besides windows? Try out debian-based linux (which is compatible with most of our courses)!
 
 
+
 Learn to Solder Hackathon:
 
   * Mitch Altman's soldering guide for sale
@@ -40,6 +41,7 @@ Learn to Solder Hackathon:
 how to create 
 * How to use a library (Adafruit)
 * How to make a library
+* Libraries so useful, they come with Arduino IDE: http://www.arduino.cc/en/Reference/Libraries
 
 
 
@@ -48,6 +50,9 @@ Hackathon #2:
 Ardu-gyver Obstacle Course -- Ardu-ninja?
 
 Configure the Arduino to get past actual obstacles:
+
+
+
 
 Challenge:
 
