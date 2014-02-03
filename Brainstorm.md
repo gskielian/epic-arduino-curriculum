@@ -41,6 +41,15 @@ Learn to Solder Hackathon:
 how to create 
 * How to use a library (Adafruit)
 * How to make a library
+  * cpp file
+  * .h file with class prototype and stuff you want to let your user muck with
+  * keywords.txt for highlighting
+    * highlighting levels (Keyword1, keyword2, etc).
+  * example files
+    * remember to hold the example file in it's own folder of the same name (minus the .ino portion)
+  * cannot add a library within a library, that's the current rule
+  * licensing cool stuff -- MIT licenses, GNU, and public domain
+
 * Libraries so useful, they come with Arduino IDE: http://www.arduino.cc/en/Reference/Libraries
 
 
